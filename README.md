@@ -1,7 +1,8 @@
-# pagina-web
+Pagina
 NOmbre del proyeto
 - linea 1 
 
-DEscripcion del proyecto
-------------
+Descripcion del proyecto
+---------------------------
+EL proyecto esn una remenbranza a los 
 

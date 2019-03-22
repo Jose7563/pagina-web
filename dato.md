@@ -9,9 +9,10 @@ Asi mismo, la interación con el programa
 ## Lenguaje de Progamacion
  * Java  - Version utlizada [Java 8](https://www.java.com/es/download/)
 ## Autores :
+* Jose 
 * Rigoberto 
 * Christian 
-* Jose 
+
 ---
 ## Version
 version v 0.0.1 

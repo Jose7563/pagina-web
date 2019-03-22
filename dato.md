@@ -10,7 +10,7 @@ Asi mismo, la interación con el programa
  * Java  - Version utlizada [Java 8](https://www.java.com/es/download/)
 ## Autores :
 * Rigoberto 
-* CHirtian 
+* Christian 
 * Jose 
 ---
 ## Version
